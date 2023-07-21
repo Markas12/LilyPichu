@@ -15,7 +15,7 @@
   /* --- User variables --- */
 
   /* Jumping GIF */
-  --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
+  --jumping-gif: url("https://i.vgy.me/uHc0Wm.gif");
 
   /* Background (if you want an image replace it by : 
 
@@ -28,25 +28,25 @@
 
 .theme-dark {
   /* Text */
-  --text-normal: #f8e1e5;
-  --header-primary: #f8e1e5;
-  --interactive-normal: #fab1bd;
-  --channels-default: #f8e1e5;
+  --text-normal: #f27af7;
+  --header-primary: #aa33a0;
+  --interactive-normal: #160824;
+  --channels-default: #000000;
 
-  --text-muted: #e2c1c7;
-  --interactive-muted: #ad8c91;
+  --text-muted: #a160a1;
+  --interactive-muted: #ac5e94;
 
   --header-secondary: #e2c1c7;
   --interactive-hover: #e2c1c7;
-  --interactive-active: #e2c1c7;
+  --interactive-active: #d6b7bd;
 
   /* Background color */
-  --background-primary: #5e3640;
-  --background-secondary: #49292f;
-  --background-secondary-alt: #3b1d24;
-  --background-tertiary: #220f14;
-  --background-floating: #221115;
-  --background-accent: #c5536c;
+  --background-primary: #592585ce;
+  --background-secondary: #904ec763;
+  --background-secondary-alt: #4c3074;
+  --background-tertiary: #a463ca;
+  --background-floating: #691683;
+  --background-accent: #5a5a5a;
   --channeltextarea-background: var(--background-secondary);
   --modal-background: var(--background-primary);
   --background-modifier-hover: #5e36403b;
